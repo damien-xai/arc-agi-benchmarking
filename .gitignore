@@ -179,3 +179,6 @@ analyze_submission_times.py
 .cursorignore
 *local*
 .claude
+# Results and outputs - NEVER commit to submodule
+results/
+backups/
